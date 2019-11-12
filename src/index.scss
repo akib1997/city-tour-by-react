@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$colorBlack: #000;
+$colorGreen: #82b340;
+$colorWhite: #fff;
+$colorGrey: #ececec;
+
+body {
+    background: $colorWhite;
+    color: $colorBlack;
+    font-family: "Open Sans", sans-serif;
+}
